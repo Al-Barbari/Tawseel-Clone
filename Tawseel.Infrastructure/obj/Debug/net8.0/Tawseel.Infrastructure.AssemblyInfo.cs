@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tawseel.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7760aed9d96e206c82c5f0a2da5f116b4628de5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4739828350b7ce1dccf635425d623a83df4c9e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tawseel.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tawseel.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

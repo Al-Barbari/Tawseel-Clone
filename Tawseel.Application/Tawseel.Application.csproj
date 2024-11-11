@@ -15,4 +15,8 @@
     <ProjectReference Include="..\Tawseel.Domain\Tawseel.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Helpers\" />
+  </ItemGroup>
+
 </Project>

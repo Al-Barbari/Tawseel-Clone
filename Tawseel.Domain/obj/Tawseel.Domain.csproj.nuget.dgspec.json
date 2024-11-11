@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj": {}
+    "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj": {
+    "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj",
         "projectName": "Tawseel.Domain",
-        "projectPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj",
+        "projectPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj",
         "packagesPath": "C:\\Users\\AL_QURSAN\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\obj\\",
+        "outputPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AL_QURSAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

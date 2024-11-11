@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj": {}
+    "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj": {}
   },
   "projects": {
-    "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj": {
+    "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
         "projectName": "Tawseel.Infrastructure",
-        "projectPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\AL_QURSAN\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AL_QURSAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
