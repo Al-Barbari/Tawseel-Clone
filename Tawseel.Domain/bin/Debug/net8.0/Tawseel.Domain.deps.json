@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tawseel.Domain/1.0.0": {
+        "runtime": {
+          "Tawseel.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tawseel.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "i7JuLNxLRqw=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AL_QURSAN\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\AL_QURSAN\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
+    "C:\\Users\\AL_QURSAN\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\AL_QURSAN\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\AL_QURSAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

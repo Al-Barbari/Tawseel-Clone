@@ -1,0 +1,15 @@
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\bin\Debug\net8.0\Tawseel.Application.deps.json
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\bin\Debug\net8.0\Tawseel.Application.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\bin\Debug\net8.0\Tawseel.Application.pdb
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\bin\Debug\net8.0\Tawseel.Domain.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\bin\Debug\net8.0\Tawseel.Domain.pdb
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.csproj.AssemblyReference.cache
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.AssemblyInfoInputs.cache
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.AssemblyInfo.cs
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.csproj.CoreCompileInputs.cache
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel..033A5B45.Up2Date
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\refint\Tawseel.Application.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.pdb
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\ref\Tawseel.Application.dll

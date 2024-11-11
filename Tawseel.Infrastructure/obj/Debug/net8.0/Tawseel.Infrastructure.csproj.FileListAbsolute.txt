@@ -1,0 +1,12 @@
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\bin\Debug\net8.0\Tawseel.Infrastructure.deps.json
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\bin\Debug\net8.0\Tawseel.Infrastructure.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\bin\Debug\net8.0\Tawseel.Infrastructure.pdb
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\obj\Debug\net8.0\Tawseel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\obj\Debug\net8.0\Tawseel.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\obj\Debug\net8.0\Tawseel.Infrastructure.AssemblyInfo.cs
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\obj\Debug\net8.0\Tawseel.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\obj\Debug\net8.0\Tawseel.Infrastructure.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\obj\Debug\net8.0\refint\Tawseel.Infrastructure.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\obj\Debug\net8.0\Tawseel.Infrastructure.pdb
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\obj\Debug\net8.0\ref\Tawseel.Infrastructure.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Infrastructure\obj\Debug\net8.0\Tawseel.Infrastructure.csproj.AssemblyReference.cache
