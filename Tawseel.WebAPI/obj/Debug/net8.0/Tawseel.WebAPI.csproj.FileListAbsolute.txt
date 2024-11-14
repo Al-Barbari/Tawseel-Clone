@@ -51,3 +51,4 @@ C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.WebAPI\bin\Debug\net8.0\Tawseel.
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.WebAPI\bin\Debug\net8.0\Tawseel.Application.pdb
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.WebAPI\bin\Debug\net8.0\Tawseel.Infrastructure.pdb
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.WebAPI\bin\Debug\net8.0\Tawseel.Domain.pdb
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.WebAPI\obj\Debug\net8.0\Tawseel.WebAPI.sourcelink.json

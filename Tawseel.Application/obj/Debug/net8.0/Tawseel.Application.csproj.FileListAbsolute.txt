@@ -13,3 +13,4 @@ C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Taw
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\refint\Tawseel.Application.dll
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.pdb
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\ref\Tawseel.Application.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.sourcelink.json

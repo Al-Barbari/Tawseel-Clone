@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WsUhA2ScDQ4=",
+  "dgSpecHash": "OsflUsbSjfA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.WebAPI\\Tawseel.WebAPI.csproj",
+  "projectFilePath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.WebAPI\\Tawseel.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AL_QURSAN\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
     "C:\\Users\\AL_QURSAN\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",

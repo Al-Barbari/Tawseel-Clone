@@ -1,7 +1,76 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5EEAF9-F1CD-41B0-82B4-0B520F3CD692}|Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.infrastructure\\tawseel.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC5EEAF9-F1CD-41B0-82B4-0B520F3CD692}|Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj|solutionrelative:tawseel.infrastructure\\tawseel.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\shopcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\shopcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\namedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\namedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\itemcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\itemcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\rootentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\rootentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\imageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\imageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 355,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +87,227 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tawseel.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
+              "RelativeToolTip": "Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T21:13:12.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\OrderDetails.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:08:59.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:08:40.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\Session.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Session.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:07:28.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Message.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\Message.cs",
+              "ViewState": "AQIAAAEAAAAgMzMzMzPzvw8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:59:32.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Subscription.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\Subscription.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Subscription.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\Subscription.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:51:56.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImageEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\ImageEntity.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\ImageEntity.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\ImageEntity.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\ImageEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:31:05.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\Item.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:29:37.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemCategory.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\ItemCategory.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\ItemCategory.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\ItemCategory.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\ItemCategory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:28:52.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Shop.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\Shop.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Shop.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\Shop.cs",
+              "ViewState": "AQIAAAwAAAAgZWZmZmYWwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:28:26.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NamedEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\NamedEntity.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\NamedEntity.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\NamedEntity.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\NamedEntity.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:25:57.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShopCategory.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\ShopCategory.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\ShopCategory.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\ShopCategory.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\ShopCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:23:35.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Address.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\Address.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:12:30.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAddress.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\UserAddress.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\UserAddress.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\UserAddress.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\UserAddress.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:10:46.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\City.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:05:28.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:57:37.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RootEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\RootEntity.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\RootEntity.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\RootEntity.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\RootEntity.cs",
+              "ViewState": "AQIAAAoAAADAZWZmZmYkwBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:05:46.896Z",
+              "EditorCaption": ""
             }
           ]
         },
