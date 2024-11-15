@@ -14,3 +14,5 @@ C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\ref
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.pdb
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\ref\Tawseel.Application.dll
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\obj\Debug\net8.0\Tawseel.Application.sourcelink.json
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\bin\Debug\net8.0\Tawseel.CrossCutting.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Application\bin\Debug\net8.0\Tawseel.CrossCutting.pdb

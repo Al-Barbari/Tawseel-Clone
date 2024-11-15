@@ -1,5 +1,6 @@
 using Serilog;
 using Tawseel.Application;
+using Tawseel.CrossCutting;
 using Tawseel.Infrastructure;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +11,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services
     .AddApplication()
-    .AddInfrastructure();
+    .AddInfrastructure()
+    .AddCrossCutting();
 
 builder.Host.UseSerilog((context, configuration) =>
     configuration.ReadFrom.Configuration(context.Configuration));

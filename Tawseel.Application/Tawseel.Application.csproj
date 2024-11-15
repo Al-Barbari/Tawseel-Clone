@@ -12,10 +12,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Tawseel.CrossCutting\Tawseel.CrossCutting.csproj" />
     <ProjectReference Include="..\Tawseel.Domain\Tawseel.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Features\Users\Commands\Handlers\" />
+    <Folder Include="Features\Users\Commands\DTOs\" />
+    <Folder Include="Features\Users\Queries\Handlers\" />
+    <Folder Include="Features\Users\Queries\DTOs\" />
     <Folder Include="Helpers\" />
   </ItemGroup>
 

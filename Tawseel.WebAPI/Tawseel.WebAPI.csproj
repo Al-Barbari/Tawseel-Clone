@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
+  <ItemGroup>    
     <PackageReference Include="Serilog.AspNetCore" Version="8.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.9.0" />
   </ItemGroup>
@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Tawseel.Application\Tawseel.Application.csproj" />
+    <ProjectReference Include="..\Tawseel.CrossCutting\Tawseel.CrossCutting.csproj" />
     <ProjectReference Include="..\Tawseel.Infrastructure\Tawseel.Infrastructure.csproj" />
   </ItemGroup>
 

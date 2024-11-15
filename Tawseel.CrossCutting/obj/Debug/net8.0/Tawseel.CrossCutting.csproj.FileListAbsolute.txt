@@ -1,0 +1,13 @@
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\bin\Debug\net8.0\Tawseel.CrossCutting.deps.json
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\bin\Debug\net8.0\Tawseel.CrossCutting.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\bin\Debug\net8.0\Tawseel.CrossCutting.pdb
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\obj\Debug\net8.0\Tawseel.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\obj\Debug\net8.0\Tawseel.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\obj\Debug\net8.0\Tawseel.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\obj\Debug\net8.0\Tawseel.CrossCutting.AssemblyInfo.cs
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\obj\Debug\net8.0\Tawseel.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\obj\Debug\net8.0\Tawseel.CrossCutting.sourcelink.json
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\obj\Debug\net8.0\Tawseel.CrossCutting.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\obj\Debug\net8.0\refint\Tawseel.CrossCutting.dll
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\obj\Debug\net8.0\Tawseel.CrossCutting.pdb
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.CrossCutting\obj\Debug\net8.0\ref\Tawseel.CrossCutting.dll
