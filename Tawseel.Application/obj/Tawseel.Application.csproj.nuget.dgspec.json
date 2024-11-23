@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj": {}
+    "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj": {}
   },
   "projects": {
-    "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj": {
+    "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj",
+        "projectUniqueName": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj",
         "projectName": "Tawseel.Application",
-        "projectPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj",
+        "projectPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj",
         "packagesPath": "C:\\Users\\AL_QURSAN\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\obj\\",
+        "outputPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AL_QURSAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj": {
-                "projectPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj"
+              "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj"
               },
-              "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj": {
-                "projectPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj"
+              "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj": {
+                "projectPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj": {
+    "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
         "projectName": "Tawseel.CrossCutting",
-        "projectPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
+        "projectPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\AL_QURSAN\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AL_QURSAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,6 +131,10 @@
             "BCrypt.Net-Next": {
               "target": "Package",
               "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.11, )"
             }
           },
           "imports": [
@@ -153,14 +157,14 @@
         }
       }
     },
-    "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj": {
+    "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj",
         "projectName": "Tawseel.Domain",
-        "projectPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj",
+        "projectPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Tawseel.Domain.csproj",
         "packagesPath": "C:\\Users\\AL_QURSAN\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\obj\\",
+        "outputPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AL_QURSAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -194,6 +198,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

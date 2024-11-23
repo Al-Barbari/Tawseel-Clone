@@ -8,6 +8,6 @@ namespace Tawseel.Domain.Entities
 {
     public class Session : RootEntity
     {
-
+        
     }
 }

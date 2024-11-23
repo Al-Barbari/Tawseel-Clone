@@ -10,6 +10,6 @@ namespace Tawseel.Domain.Entities
     public class NamedEntity : RootEntity
     {
         [Column("Name", TypeName = "varchar(100)")]
-        public string ArabicName { get; set; } = string.Empty;        
+        public string ArabicName { get; set; } = string.Empty; 
     }
 }

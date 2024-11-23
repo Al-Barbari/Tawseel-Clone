@@ -4,9 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tawseel.Infrastructure.Data
+namespace Tawseel.Domain.Enum
 {
-    internal class ReadDbContext
+    public enum UserType
     {
+        Admin = 1,
+        User = 2,
+        Shop = 3,
+        Delivery = 4
+
     }
 }

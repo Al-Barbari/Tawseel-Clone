@@ -22,6 +22,5 @@ namespace Tawseel.Domain.Entities
         public DateTime CreatedAt { get; set; }
         [Column("DeletedAt", TypeName = "datetime")]
         public DateTime DeletedAt { get; set; }
-
     }
 }

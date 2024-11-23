@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj": {}
+    "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj": {
+    "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
         "projectName": "Tawseel.CrossCutting",
-        "projectPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
+        "projectPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\AL_QURSAN\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AL_QURSAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,6 +53,10 @@
             "BCrypt.Net-Next": {
               "target": "Package",
               "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.11, )"
             }
           },
           "imports": [

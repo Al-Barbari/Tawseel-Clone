@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC5EEAF9-F1CD-41B0-82B4-0B520F3CD692}|Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.infrastructure\\tawseel.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DC5EEAF9-F1CD-41B0-82B4-0B520F3CD692}|Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj|solutionrelative:tawseel.infrastructure\\tawseel.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.crosscutting\\common\\pagination\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|solutionrelative:tawseel.crosscutting\\common\\pagination\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.crosscutting\\tawseel.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|solutionrelative:tawseel.crosscutting\\tawseel.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.crosscutting\\common\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|solutionrelative:tawseel.crosscutting\\common\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C40F5565-3245-480E-BF39-53BF78F0F9CF}|Tawseel.Application\\Tawseel.Application.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.application\\tawseel.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C40F5565-3245-480E-BF39-53BF78F0F9CF}|Tawseel.Application\\Tawseel.Application.csproj|solutionrelative:tawseel.application\\tawseel.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\value objects\\timerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\value objects\\timerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC97BFB-CD21-4247-9304-6749E632AF15}|Tawseel.WebAPI\\Tawseel.WebAPI.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC97BFB-CD21-4247-9304-6749E632AF15}|Tawseel.WebAPI\\Tawseel.WebAPI.csproj|solutionrelative:tawseel.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.crosscutting\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|solutionrelative:tawseel.crosscutting\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\shopcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\shopcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC5EEAF9-F1CD-41B0-82B4-0B520F3CD692}|Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.infrastructure\\data\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC5EEAF9-F1CD-41B0-82B4-0B520F3CD692}|Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj|solutionrelative:tawseel.infrastructure\\data\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC5EEAF9-F1CD-41B0-82B4-0B520F3CD692}|Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.infrastructure\\data\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC5EEAF9-F1CD-41B0-82B4-0B520F3CD692}|Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj|solutionrelative:tawseel.infrastructure\\data\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\enum\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\enum\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC97BFB-CD21-4247-9304-6749E632AF15}|Tawseel.WebAPI\\Tawseel.WebAPI.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.webapi\\tawseel.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ABC97BFB-CD21-4247-9304-6749E632AF15}|Tawseel.WebAPI\\Tawseel.WebAPI.csproj|solutionrelative:tawseel.webapi\\tawseel.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C40F5565-3245-480E-BF39-53BF78F0F9CF}|Tawseel.Application\\Tawseel.Application.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C40F5565-3245-480E-BF39-53BF78F0F9CF}|Tawseel.Application\\Tawseel.Application.csproj|solutionrelative:tawseel.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.crosscutting\\mappings\\commandmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|solutionrelative:tawseel.crosscutting\\mappings\\commandmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.crosscutting\\mappings\\querymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4336A7B-3278-4AFB-AE2C-9B510C668935}|Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj|solutionrelative:tawseel.crosscutting\\mappings\\querymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|c:\\users\\al_qursan\\source\\repos\\tawseel\\tawseel.domain\\entities\\rootentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD59B82D-CD64-4FC5-9F5B-D8DBBA8BC024}|Tawseel.Domain\\Tawseel.Domain.csproj|solutionrelative:tawseel.domain\\entities\\rootentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 355,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,138 +54,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Tawseel.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.WebAPI\\Program.cs",
-              "RelativeToolTip": "Tawseel.WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Common\\Pagination\\Pagination.cs",
+              "RelativeDocumentMoniker": "Tawseel.CrossCutting\\Common\\Pagination\\Pagination.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Common\\Pagination\\Pagination.cs",
+              "RelativeToolTip": "Tawseel.CrossCutting\\Common\\Pagination\\Pagination.cs",
+              "ViewState": "AQIAACIAAAAAZ2ZmZmYUwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:55:50.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WriteDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Data\\WriteDbContext.cs",
-              "RelativeDocumentMoniker": "Tawseel.Infrastructure\\Data\\WriteDbContext.cs",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Data\\WriteDbContext.cs",
-              "RelativeToolTip": "Tawseel.Infrastructure\\Data\\WriteDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:49:24.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ReadDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Data\\ReadDbContext.cs",
-              "RelativeDocumentMoniker": "Tawseel.Infrastructure\\Data\\ReadDbContext.cs",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Data\\ReadDbContext.cs",
-              "RelativeToolTip": "Tawseel.Infrastructure\\Data\\ReadDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:48:58.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Tawseel.Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "Tawseel.Application\\DependencyInjection.cs",
-              "ViewState": "AQIAAAsAAAAA//////8PwA4AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:21:23.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Tawseel.CrossCutting\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\DependencyInjection.cs",
-              "RelativeToolTip": "Tawseel.CrossCutting\\DependencyInjection.cs",
-              "ViewState": "AQIAAAcAAACgMDMzMzMrwAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:21:38.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "QueryMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Mappings\\QueryMappingProfile.cs",
-              "RelativeDocumentMoniker": "Tawseel.CrossCutting\\Mappings\\QueryMappingProfile.cs",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Mappings\\QueryMappingProfile.cs",
-              "RelativeToolTip": "Tawseel.CrossCutting\\Mappings\\QueryMappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:19:24.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CommandMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Mappings\\CommandMappingProfile.cs",
-              "RelativeDocumentMoniker": "Tawseel.CrossCutting\\Mappings\\CommandMappingProfile.cs",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Mappings\\CommandMappingProfile.cs",
-              "RelativeToolTip": "Tawseel.CrossCutting\\Mappings\\CommandMappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:19:03.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Tawseel.WebAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.WebAPI\\Tawseel.WebAPI.csproj",
-              "RelativeDocumentMoniker": "Tawseel.WebAPI\\Tawseel.WebAPI.csproj",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.WebAPI\\Tawseel.WebAPI.csproj",
-              "RelativeToolTip": "Tawseel.WebAPI\\Tawseel.WebAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-15T17:15:25.472Z",
+              "WhenOpened": "2024-11-23T19:36:14.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Tawseel.CrossCutting.csproj",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
-              "RelativeDocumentMoniker": "Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
-              "RelativeToolTip": "Tawseel.CrossCutting\\Tawseel.CrossCutting.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-15T17:12:51.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Tawseel.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
-              "RelativeToolTip": "Tawseel.Infrastructure\\Tawseel.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-15T17:12:48.956Z",
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Common\\Result\\Result.cs",
+              "RelativeDocumentMoniker": "Tawseel.CrossCutting\\Common\\Result\\Result.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.CrossCutting\\Common\\Result\\Result.cs",
+              "RelativeToolTip": "Tawseel.CrossCutting\\Common\\Result\\Result.cs",
+              "ViewState": "AQIAABAAAAAgAAAAAEAlwBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:13:20.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Tawseel.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj",
-              "RelativeDocumentMoniker": "Tawseel.Application\\Tawseel.Application.csproj",
-              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Application\\Tawseel.Application.csproj",
-              "RelativeToolTip": "Tawseel.Application\\Tawseel.Application.csproj",
-              "ViewState": "AQIAAAkAAACgMjMzMzMrwA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-15T17:12:45.722Z",
+              "Title": "TimeRange.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Value objects\\TimeRange.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Value objects\\TimeRange.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Value objects\\TimeRange.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Value objects\\TimeRange.cs",
+              "ViewState": "AQIAABQAAACAZ2ZmZmYiwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:59:18.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\Session.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\Session.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:55:12.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopCategory.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\ShopCategory.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\ShopCategory.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\ShopCategory.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\ShopCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:55:09.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Enum\\UserType.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Enum\\UserType.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Enum\\UserType.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Enum\\UserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:54:01.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAsAAAAgZWZmZmYswA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:53:47.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RootEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\RootEntity.cs",
+              "RelativeDocumentMoniker": "Tawseel.Domain\\Entities\\RootEntity.cs",
+              "ToolTip": "C:\\Users\\AL_QURSAN\\source\\repos\\Tawseel\\Tawseel.Domain\\Entities\\RootEntity.cs",
+              "RelativeToolTip": "Tawseel.Domain\\Entities\\RootEntity.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:53:06.878Z",
               "EditorCaption": ""
             }
           ]

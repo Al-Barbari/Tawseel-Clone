@@ -18,9 +18,9 @@
 
   <ItemGroup>
     <Folder Include="Features\Users\Commands\Handlers\" />
-    <Folder Include="Features\Users\Commands\DTOs\" />
+    <Folder Include="Features\Users\Commands\Commands\" />
     <Folder Include="Features\Users\Queries\Handlers\" />
-    <Folder Include="Features\Users\Queries\DTOs\" />
+    <Folder Include="Features\Users\Queries\Queries\" />
     <Folder Include="Helpers\" />
   </ItemGroup>
 

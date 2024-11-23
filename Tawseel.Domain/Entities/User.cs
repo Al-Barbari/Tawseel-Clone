@@ -16,6 +16,8 @@ namespace Tawseel.Domain.Entities
         // 1. Admin, 2. User, 3. Business, 4. Delivery
         [Column("PhoneNumber", TypeName = "varchar(9)")]
         public string PhoneNumber { get; set; } = string.Empty;
+        [Column("Password")]
+        public string Password { get; set; } = string.Empty;
         [Column("CityId")]
         public int CityId { get; set; }
 
