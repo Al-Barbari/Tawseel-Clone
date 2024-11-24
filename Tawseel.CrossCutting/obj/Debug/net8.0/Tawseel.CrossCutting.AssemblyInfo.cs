@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tawseel.CrossCutting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+501bf5b90f8c8e51560b544e76c0cfc81a4f0613")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0543bc7f93fb9dd5983f616c54739d01bebc1c67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tawseel.CrossCutting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tawseel.CrossCutting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
