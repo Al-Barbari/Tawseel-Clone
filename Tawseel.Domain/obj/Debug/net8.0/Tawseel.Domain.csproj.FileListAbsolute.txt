@@ -10,3 +10,4 @@ C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Domain\obj\Debug\net8.0\refint\T
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Domain\obj\Debug\net8.0\Tawseel.Domain.pdb
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Domain\obj\Debug\net8.0\ref\Tawseel.Domain.dll
 C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Domain\obj\Debug\net8.0\Tawseel.Domain.sourcelink.json
+C:\Users\AL_QURSAN\source\repos\Tawseel\Tawseel.Domain\obj\Debug\net8.0\Tawseel.Domain.csproj.AssemblyReference.cache

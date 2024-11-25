@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tawseel.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0543bc7f93fb9dd5983f616c54739d01bebc1c67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29aa86b765c79ba2e5748b311009eaf8150b4e01")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tawseel.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tawseel.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

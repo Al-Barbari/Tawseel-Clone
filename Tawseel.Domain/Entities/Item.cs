@@ -13,6 +13,7 @@ namespace Tawseel.Domain.Entities
         public int ItemCategoryId { get; set; }
         [Column("Price")]
         public decimal Price { get; set; }
+        public decimal? Discount { get; set; }
         public ItemCategory? ItemCategory { get; set; }        
     }
 }

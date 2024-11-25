@@ -9,7 +9,8 @@
       "Tawseel.CrossCutting/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1",
-          "BCrypt.Net-Next": "4.0.3"
+          "BCrypt.Net-Next": "4.0.3",
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.11"
         },
         "runtime": {
           "Tawseel.CrossCutting.dll": {}
@@ -31,6 +32,14 @@
           "lib/net6.0/BCrypt.Net-Next.dll": {
             "assemblyVersion": "4.0.3.0",
             "fileVersion": "4.0.3.0"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/8.0.11": {
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "8.0.11.0",
+            "fileVersion": "8.0.1124.52104"
           }
         }
       },
@@ -87,6 +96,13 @@
       "sha512": "sha512-W+U9WvmZQgi5cX6FS5GDtDoPzUCV4LkBLkywq/kRZhuDwcbavOzcDAr3LXJFqHUi952Yj3LEYoWW0jbEUQChsA==",
       "path": "bcrypt.net-next/4.0.3",
       "hashPath": "bcrypt.net-next.4.0.3.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/8.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-++zY0Ea724ku1jptWJmF7jm3I4IXTexfT4qi1ETcSFFF7qj+qm6rRgN7mTuKkwIETuXk0ikfzudryRjUGrrNKQ==",
+      "path": "microsoft.entityframeworkcore.abstractions/8.0.11",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
       "type": "package",

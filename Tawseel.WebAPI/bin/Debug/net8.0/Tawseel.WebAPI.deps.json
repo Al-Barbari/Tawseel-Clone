@@ -812,13 +812,17 @@
       "Tawseel.CrossCutting/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1",
-          "BCrypt.Net-Next": "4.0.3"
+          "BCrypt.Net-Next": "4.0.3",
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.11"
         },
         "runtime": {
           "Tawseel.CrossCutting.dll": {}
         }
       },
       "Tawseel.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.11"
+        },
         "runtime": {
           "Tawseel.Domain.dll": {}
         }
